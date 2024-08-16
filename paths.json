@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/world-bank/global/:/",
-    "/content/world-bank/global/en/:/",
-    "/content/world-bank/configuration:/.helix/config.json"
+    "/content/pritam-wb-content/:/",
+    "/content/pritam-wb-content/en/:/",
+    "/content/pritam-wb-content/configuration:/.helix/config.json"
   ]
 }
